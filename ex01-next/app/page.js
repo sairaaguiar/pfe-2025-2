@@ -3,6 +3,6 @@ import styles from "./page.module.css";
 
 export default function Home() {
   return (
-    <div>Olá, Turma!</div>,
+    <div>Olá, Turma!</div>
   )
 }
